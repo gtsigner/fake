@@ -16,14 +16,14 @@ Fake embeds samples data files unless you call `UseExternalData(true)` in order 
 ## Install
 
 ```shell
-go get github.com/icrowley/fake
+go get github.com/gtsigner/fake
 ```
 
 ## Import
 
 ```go
 import (
-  "github.com/icrowley/fake"
+  "github.com/gtsigner/fake"
 )
 ```
 

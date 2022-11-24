@@ -1,4 +1,4 @@
-module github.com/icrowley/fake
+module github.com/gtsigner/fake
 
 go 1.17
 
